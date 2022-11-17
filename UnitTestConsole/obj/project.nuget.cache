@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWDm2CWbFcw/AcqKSh3S8m7XnGpH1olNNln5QwdxRl6IeN7jhVuRvksrzeNsOLDjVmAyxeEW3nOLJ2yRsL0mrg==",
+  "success": true,
+  "projectFilePath": "/Users/mvmanh/Desktop/new/UnitTestConsole/UnitTestConsole/UnitTestConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/mvmanh/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/mvmanh/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
